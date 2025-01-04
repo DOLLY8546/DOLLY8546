@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @DOLLY8546
+- 👋 Hi, I’m Dolly Sharma from Mathura,UP
 - 👀 I’m interested in Drawing and Music
 - 🌱 I’m currently learning C++ programming language 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: She, Her
-- ⚡ Fun fact: ...
 
 <!---
 DOLLY8546/DOLLY8546 is a ✨ special ✨ repository because
