@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dolly Sharma from Mathura,UP
+- 👋 Hi, I’m Dolly Sharma from Mathura, UP
 - 👀 I’m interested in Drawing and Music
 - 🌱 I’m currently learning C++ programming language 
 - 😄 Pronouns: She, Her
